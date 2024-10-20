@@ -71,7 +71,7 @@ const questions = [
 ];
 
 const data = {
-  name: chalk.bold.green("                Shuaib"),
+  name: chalk.bold.green("                   Shuaib"),
   handle: chalk.white("@shuaibsiddiqui786"),
   linkedin: chalk.gray("https://linkedin.com/in/") + chalk.blue("shuaibsiddiqui"),
   github: chalk.gray("https://github.com/") + chalk.green("shuaibsiddiqui786"),
@@ -80,8 +80,8 @@ const data = {
   web: chalk.cyan("https://shuaib-siddiqui-portfolio.framer.ai/"),
   npx: chalk.red("npx") + " " + chalk.white("shuaib"),
 
-  labelWork: chalk.red.bold("           I am a Software Developer"),
-  labelLearn: chalk.red.bold("          Learning DevSecOps and MLOps"),
+  labelWork: chalk.red.bold("              I am a Software Developer"),
+  labelLearn: chalk.red.bold("            Learning DevSecOps and MLOps"),
   labelLinkedIn: chalk.white.bold("   LinkedIn:"),
   labelGitHub: chalk.white.bold("     GitHub:"),
   labelTwitter: chalk.white.bold("    Twitter:"),
