@@ -10,6 +10,7 @@ npx shuaib
 
 Explore who I am, straight from the console.
 
+---
 ##### STEPS TO CREATE YOUR OWN
 
 The article written by @jackboberg. I used the same for the reference to deploy the package.
