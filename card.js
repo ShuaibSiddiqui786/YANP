@@ -90,6 +90,13 @@ const data = {
   labelCard: chalk.white.bold("       Card:"),
 };
 
+const name = "Shuaib";
+const totalWidth = 50; // Total width for the centered string
+const padding = Math.floor((totalWidth - name.length) / 2);
+const centeredName = ' '.repeat(padding) + name + ' '.repeat(padding);
+
+console.log(chalk.bold.green(centeredName));
+
 const me = boxen(
   [
     `${data.name}`,
