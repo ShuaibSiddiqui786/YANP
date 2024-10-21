@@ -4,6 +4,9 @@ Connect with me in a unique way through my NPX card, right from your terminal
 
 👇 just hit
 
+`
+npx shuaib
+`
 
 ##### STEPS TO CREATE YOUR OWN
 
